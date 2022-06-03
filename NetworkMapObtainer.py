@@ -2,7 +2,6 @@ import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import json
 import urllib3
-import os
 import time
 
 
